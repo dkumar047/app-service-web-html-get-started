@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: gcosandboxadovm
+  name: default
 
 variables:
   buildConfiguration: 'Release'
