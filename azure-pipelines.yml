@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: gcosandboxadovm.icertisdev.us
+  name: gcosandboxadovm
 
 variables:
   buildConfiguration: 'Release'
